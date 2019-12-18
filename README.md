@@ -1,2 +1,2 @@
 # csc_deployable
-Caesarian Section Classification model with API (deployed to AWS)
+Caesarian Section Classification data. A simple comparison of models for classification.
